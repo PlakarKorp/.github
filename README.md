@@ -30,7 +30,7 @@ Plakar Korp offers a suite of enterprise-grade solutions tailored to meet the ev
 For partnership inquiries, support, or more information about our services, reach out to us:
 - **Email**: [hello@plakar.io](mailto:hello@plakar.io)
 - **Website**: [www.plakar.io](https://www.plakar.io)
-- **Phone**: +1 (123) 456-7890
+- **Phone**: +1 (415) 802-2316
 
 ---
 Discover the future of data management with Plakar Korp—where reliability meets innovation.
