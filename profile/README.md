@@ -4,7 +4,7 @@
 
 🌈 Contributions are welcome, just follow the guidelines !
 
-👩‍💻 Documentation available at https://docs.plakar.io
+👩‍💻 Documentation available at https://www.plakar.io/docs/
 
 <!--
 🍿 Fun facts - what does your team eat for breakfast?
